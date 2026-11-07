@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Phone Speaker</string>
+    <string name="tile_label">PC Audio</string>
+    <string name="tagline">Your phone as the speaker and mic for your Linux PC</string>
+    <string name="channel_name">Audio bridge</string>
+
+    <string name="status_off">Off</string>
+    <string name="status_waiting">Waiting for PC</string>
+    <string name="status_connected">Connected</string>
+    <string name="detail_off">Tap the button to connect to your PC</string>
+    <string name="detail_waiting">Plug in the USB cable. It connects automatically.</string>
+    <string name="detail_connected">Your PC is now using this phone for audio</string>
+    <string name="notification_waiting">Connects when the USB cable is plugged in</string>
+    <string name="notification_connected">Audio is flowing over USB</string>
+    <string name="action_start">Turn on</string>
+    <string name="action_stop">Turn off</string>
+
+    <string name="section_audio">Audio</string>
+    <string name="speaker_title">Speaker</string>
+    <string name="speaker_detail">Play the PC\'s sound on this phone</string>
+    <string name="mic_title">Microphone</string>
+    <string name="mic_detail">Use this phone\'s mic on the PC</string>
+    <string name="call_title">Call mode</string>
+    <string name="call_detail">Reduces echo on calls, at lower music quality</string>
+
+    <string name="setup_title">Still waiting?</string>
+    <string name="setup_body">• Turn on USB debugging in Developer options\n• Accept the \"Allow USB debugging\" prompt on this phone\n• Check that phone-speakerd is running on the PC</string>
+    <string name="tile_title">Quick toggle</string>
+    <string name="tile_detail">Add a button to Quick Settings to switch this on or off without opening the app.</string>
+    <string name="tile_add">Add to Quick Settings</string>
+
+    <string name="need_one_route">Turn on the speaker or the microphone first</string>
+    <string name="mic_denied">Microphone turned off because permission was denied</string>
+</resources>

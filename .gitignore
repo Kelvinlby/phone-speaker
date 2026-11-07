@@ -1,0 +1,12 @@
+# Build output
+linux/phone-speakerd
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+
+# Machine-specific and secret files
+android/local.properties
+signing.properties
+*.jks
+*.keystore
